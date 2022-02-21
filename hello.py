@@ -1,6 +1,6 @@
 def more_hello():
     # import pdb;pdb.set_trace()
-    return "hi, hi"
+    return "hi"
 
 
 def more_goodbye():
